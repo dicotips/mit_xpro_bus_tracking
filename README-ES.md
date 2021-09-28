@@ -1,4 +1,4 @@
-# Proyecto Pacmen en Javascript
+# Proyecto Bus Tracking con Mapbox en Javascript
 
 :us: [README.md in English](README.md)
 

@@ -1,4 +1,4 @@
-# Project: Eyes tracking Mouse Cursor in Javascript and CSS
+# Project: Bus Tracking in Mapbox wich Javascript and CSS
 
 :ceuta_melilla: [README.md en Español](README-ES.md)
 ## Description
